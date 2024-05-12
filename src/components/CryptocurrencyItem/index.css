@@ -1,0 +1,21 @@
+.crypto-currency-img {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.crypto-name-container {
+  display: flex;
+  align-items: center;
+  width: 60%;
+}
+.currency-name-text {
+  color: #ffffff;
+  font-family: Roboto;
+}
+.usd {
+  width: 50%;
+  text-align: end;
+  color: #ffffff;
+  font-family: Roboto;
+}
+
